@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bib\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#: ../bibsonomy.php:103
+msgid "Options saved."
+msgstr "Опции сохранены."
+
+#: ../bibsonomy.php:136
+#, php-format
+msgid "Posted %s posts to BibSonomy."
+msgstr "Написано %s постов BibSonomy."
+
+#: ../bibsonomy.php:144
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../bibsonomy.php:148
+msgid "API key"
+msgstr "API-ключ"
+
+#: ../bibsonomy.php:150
+msgid "You can generate one <a href=\"http://www.bibsonomy.org/settings?seltab=2\">here</a>."
+msgstr "Вы можете сгенерировать один <a href=\"http://www.bibsonomy.org/settings?seltab=2\">здесь</a>."
+
+#: ../bibsonomy.php:154
+msgid "Default tags"
+msgstr "Стандартные теги"
+
+#: ../bibsonomy.php:159
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: ../bibsonomy.php:179
+msgid "Tag your posts and pages"
+msgstr "Тег ваших постов и страниц"
+
+#: ../bibsonomy.php:185
+msgid "The posts aren't include here by default because it might take a while to load."
+msgstr "Посты не включены сюда по умолчанию, поскольку требуется, чтобы они загрузились."
+
+#: ../bibsonomy.php:188
+msgid "Show posts"
+msgstr "Показать посты"
+
+#: ../bibsonomy.php:193
+msgid "Simply select the posts and pages you'd like to post to BibSonomy. If there's already a post for one of your selected URLs, it'll be updated."
+msgstr "Просто выбрать посты и страницы, которые вы хотите опубликовать через BibSonomy. Если они уже опубликованы для одного из выбранных УРЛов, он будет обновлен."
+
+#: ../bibsonomy.php:203
+msgid "Name"
+msgstr "Имя"
+
+#: ../bibsonomy.php:204
+msgid "Description"
+msgstr "Описание"
+
+#: ../bibsonomy.php:205
+msgid "Tags"
+msgstr "Теги"
+
+#: ../bibsonomy.php:238
+msgid "Post selection"
+msgstr "Выбор поста"
+
+#: ../bibsonomy.php:243
+msgid "No valid posts or pages found."
+msgstr "Не найдено подходящих страниц или постов."
+
+#: ../bibsonomy.php:366
+msgid "This style is only available for publications"
+msgstr "Только этот стиль доступен для публикаций."
+
